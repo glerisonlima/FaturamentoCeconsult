@@ -1,0 +1,30 @@
+.nav-wrapper{
+	background-color: #303F9F;
+}
+.rodape{
+	position: absolute;
+	bottom: 0px;
+}
+
+tr{
+	font-size: 48px;
+}
+
+table{
+	margin: 20px;
+}
+.brand-logo{
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin-left: -130px;
+}
+#data{
+	margin-left: 10px;
+	padding-bottom: 5px;
+}
+.imagen{
+	width: 10%;
+	margin-top: 15px;
+	margin-left: 5px;
+}
